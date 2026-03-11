@@ -8,7 +8,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 - 📫 How to reach me **rizwan.younas368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-**03184928097**
+
 <p align="left">
 </p>
 
