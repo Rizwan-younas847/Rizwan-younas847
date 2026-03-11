@@ -8,8 +8,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   •📫 How to reach me **rizwan.younas368@gmail.com**
   <p>•👷 BSc in Computer Science from Iqra uni-M9 campus(in-progress)</p>
   <p>•🌱Tech Geek, always ready to learn new Technologies/Frameworks/Languages</p>
-<h3 align="left">Connect with me:</h3>
-
+  
 <p align="left">
 </p>
 
