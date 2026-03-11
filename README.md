@@ -2,7 +2,7 @@
 <h3 align="center">BSCS(IU) | Frontend-Heavy Full Stack MERN Developer | React, Next.js, TypeScript | Building Scalable Products</h3>
 <img align="right" alt="coding" width="400"
 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-style="border-radius:50px">
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-younas847&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-younas847" /> </p>
 
 - 📫 How to reach me **rizwan.younas368@gmail.com**
