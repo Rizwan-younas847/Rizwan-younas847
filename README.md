@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-younas847&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-younas847" /> </p>
 
   •📫 How to reach me **rizwan.younas368@gmail.com**
-  <p>•👷 BSc in Computer Science from Iqra uni-M9 campus karachi(in-progress)</p>
+  <p>•👷 BSc in Computer Science from Iqra uni-M9 campus(in-progress)</p>
   <p>•🌱Tech Geek, always ready to learn new Technologies/Frameworks/Languages</p>
 <h3 align="left">Connect with me:</h3>
 
